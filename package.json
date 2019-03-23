@@ -9,7 +9,6 @@
   "dependencies": {
     "react": "16.6.3",
     "react-native": "0.58.6",
-    "react-native-sensors": "^5.1.7",
     "react-native-shake": "^3.3.0"
   },
   "devDependencies": {
